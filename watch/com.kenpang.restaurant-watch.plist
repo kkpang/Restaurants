@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/Users/kenpang/Claude/Projects/Restaurants/watch/watch_sevenrooms.py</string>
+        <string>/Users/kenpang/Claude/Projects/Restaurants/watch/watch_restaurants.py</string>
     </array>
     <key>StartCalendarInterval</key>
     <array>

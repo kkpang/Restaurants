@@ -4,3 +4,5 @@ __pycache__/
 watch/*.log
 watch/seen_slots.json
 watch/ALERTS.md
+watch/chairman_state.json
+watch/chairman_state.tmp
