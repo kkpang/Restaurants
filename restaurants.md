@@ -40,3 +40,5 @@
 | Wing (永), Central | SevenRooms | https://www.sevenrooms.com/explore/wing/reservations/create/search/ | Standard table booking; lunch and dinner |
 | The Chairman, Central | Own website | https://www.thechairmangroup.com/index.php?route=catering/booking&btabid=860 | Online bookings only. Fully booked to end Dec 2026; cancellations appear on this page. Jan-Mar 2027 bookings open 5 Nov 2026, 09:00 HKT. 3/F The Wellington, 198 Wellington St. Tel +852 2555 2202, WhatsApp +852 5501 5102 |
 | The JEJU (3 branches, Korean) | inline | https://inline.app/booking/-Oje6phT2AfKQNdkyf2d:inline-live-4?language=en | Brand page covering 3 branches: Causeway Bay (2/F Kyoto Plaza, 491-499 Lockhart Rd); "Black" (5/F M88, Wellington Place, 2-8 Wellington St, Central); Mong Kok (L11-13, 11/F Langham Place). Parties up to 30 |
+| Il Presidente | SevenRooms | https://www.sevenrooms.com/explore/ilpresidente/reservations/create/search/ | |
+| Ninetta | SevenRooms | https://www.sevenrooms.com/reservations/ninetta | |
